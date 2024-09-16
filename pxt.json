@@ -1,5 +1,5 @@
 {
-    "name": "方位ナビ",
+    "name": "mb_compass",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.25",
+        "target": "7.0.42",
         "targetId": "microbit"
     },
     "supportedTargets": [
